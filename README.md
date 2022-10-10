@@ -1,4 +1,4 @@
-![banner](/img/githubBanner.jpg)\
+![banner](/image/githubBanner.jpg)\
 \
 👩🏻‍💻 I recently completed the Digital Futures 12 week Software Engineering academy.\
 👀 I'm interested in learning further technologies.\
